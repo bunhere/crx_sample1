@@ -1,0 +1,10 @@
+{
+ "name":"Title Example",
+ "version":"1.0",
+ "description": "Show how to get title for each tab",
+ "permissions": ["activeTab", "declarativeContent", "tabs"],
+ "browser_action": {
+  "default_popup": "popup.html"
+ },
+ "manifest_version": 2
+}
